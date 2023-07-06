@@ -4,7 +4,7 @@ I created this portfolio to use as my own but ended up doing something else enti
 
 ## License and Attribution
 
-The code in this repository is released under the [MIT](https://github.com/shaqdeff/Portfolio-Template/blob/90213d4887074d1d29434f706afad3d12fa33f5f/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
+The code in this repository is released under the [MIT](https://github.com/DavidRimui/Portfolio/blob/90213d4887074d1d29434f706afad3d12fa33f5f/MIT.md) License, which grants you the freedom to use, modify, and distribute the template as your own. However, if you choose to use the site's design largely unmodified, kindly credit me as the original designer of the site.
 
 All projects and experiences included in this portfolio are the result of my own efforts and creativity. Please refrain from presenting them as your own.
 
@@ -15,10 +15,6 @@ All projects and experiences included in this portfolio are the result of my own
 - Framer Motion
 - TailwindCSS
 
-## Live Demo
-
-
-
 ## Getting Started
 
 To get started with this portfolio template, follow these simple steps:
@@ -28,7 +24,7 @@ To get started with this portfolio template, follow these simple steps:
 Make sure you have node `16.0.0` or higher and npm `9.0.0` or higher installed.
 
 ```
-git clone https://github.com/shaqdeff/Portfolio-Template.git
+git clone https://github.com/DavidRimui/Portfolio.git
 ```
 
 - Once the files are on your machine, open the **Portfolio-Template** folder in [Visual Studio Code](https://code.visualstudio.com/download).
